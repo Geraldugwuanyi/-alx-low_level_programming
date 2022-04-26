@@ -20,6 +20,7 @@ void print_diagsums(int *a, int size)
 		diagonal_sum_1 += a[i];
 	}
 
+
 	for (row = 1; row <= size; row++)
 	{
 			i = (row * size) - row;
