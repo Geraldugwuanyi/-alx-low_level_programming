@@ -15,4 +15,3 @@ void print_name(char *name, void (*f)(char *))
 
 
 1-array_iterator.c
-
