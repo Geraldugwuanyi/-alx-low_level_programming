@@ -70,7 +70,7 @@ void print_string(va_list arg)
 /**
  * print_all - Prints anything, followed by a new line.
  * @format: A string of characters representing the argument types.
- * @...: A variable num of arguments to be printed.
+ * @...: A variable number of arguments to be printed.
  *
  * Description: Any argument not of type char, int, float,
  *              or char * is ignored.
